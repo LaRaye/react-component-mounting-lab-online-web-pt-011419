@@ -8,7 +8,7 @@ class Timer extends Component {
   }
 
   componentDidMount() {
-    
+    this.interval = setInterval()
   }
 
   render() {
